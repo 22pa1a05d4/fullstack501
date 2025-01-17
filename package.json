@@ -1,0 +1,23 @@
+{
+  "name": "501-sports_scheduler",
+  "version": "1.0.0",
+  "description": "This application is designed to manage sports sessions for players and admins. Players can join, create, and cancel sessions with a reason that is visible to admins. Admins can view all sessions, including cancelled sessions, and generate reports based on configurable time periods.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-pg-simple": "^10.0.0",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "pg": "^8.13.1",
+    "pgjs": "^0.2.2"
+  }
+}
