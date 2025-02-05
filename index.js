@@ -1,5 +1,5 @@
 
-// const session = require("express-session");
+
 // const bcrypt = require("bcryptjs");
 // const pool = require("./database");
 // const app = express();
