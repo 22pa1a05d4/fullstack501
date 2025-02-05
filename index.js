@@ -1,8 +1,7 @@
 
 
 
-// const pool = require("./database");
-// const app = express();
+
 
 
 // app.use(express.urlencoded({ extended: true }));
